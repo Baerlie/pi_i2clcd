@@ -10,3 +10,6 @@ Adaptions I made:
 Instructions to install pigpio: http://abyz.me.uk/rpi/pigpio/download.html
 
 Running this demo:
+- download the code
+- run make
+- run sudo ./i2clcd
